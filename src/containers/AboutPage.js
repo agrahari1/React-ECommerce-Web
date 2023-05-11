@@ -81,10 +81,8 @@ export default class AboutPage extends Component {
               to try new things. This is my thing. So this is all about me You
               can connect with me on{" "}
               <a
-                href="www.linkedin.com/in/
-                prashant-agrahari-3438a621a
+                href="https://www.linkedin.com/feed/"
                 
-                "
                 target={"_blank"}
                 rel="noreferrer"
               >

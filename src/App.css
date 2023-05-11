@@ -120,7 +120,7 @@ padding: 12px;
 }
 
 
-.bg{
+/* .bg{
   
   background: url('../src/assets/pexels-pixabay-531880.jpg');
   background-repeat: no-repeat;
@@ -128,7 +128,7 @@ padding: 12px;
   background-size: auto;
   min-height: 100vh;
  
-}
+} */
 
 .outer {
   display: flex;
