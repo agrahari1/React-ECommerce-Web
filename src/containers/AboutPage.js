@@ -70,7 +70,7 @@ export default class AboutPage extends Component {
               DSA training from Coding Ninjas. I have also developed some
               projects that you can have a look into.{" "}
               <a
-                href="https://github.com/nikuwadaskar"
+                href="https://github.com/agrahari1"
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -81,7 +81,10 @@ export default class AboutPage extends Component {
               to try new things. This is my thing. So this is all about me You
               can connect with me on{" "}
               <a
-                href="https://www.linkedin.com/in/niketan-wadaskar-3188321a0/"
+                href="www.linkedin.com/in/
+                prashant-agrahari-3438a621a
+                
+                "
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -109,7 +112,7 @@ export default class AboutPage extends Component {
               property, I used the redux middelewere. So yeah, all this is about
               Project Tech Stack.{" "}
               <a
-                href="https://github.com/nikuwadaskar/Ecommerce-React-app-ShoppingVilla-Practice"
+                href="https://github.com/agrahari1/React-ECommerce-Web"
                 target={"_blank"}
                 rel="noreferrer"
               >
